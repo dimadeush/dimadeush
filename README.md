@@ -11,5 +11,4 @@
   <img align="top" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=dimadeush&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
 </a>
 </span>
-<br><br>
-<a href="https://www.paypal.com/donate/?hosted_button_id=4ZZHRZHENRPZN" target="_blank">Donate SystemsDK</a>
+<br>
